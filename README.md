@@ -15,7 +15,9 @@ Built for Advanced Algorithms, Programming Assignment 1 (Track B).
 
 ## Running it
 
-Run everything from the project root.
+ The project lives in the `astar-pathfinder` folder. Run everything from there:
+
+       cd astar-pathfinder
 
 ```
 python cli.py                              random map, manhattan heuristic, animated
