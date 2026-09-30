@@ -1,0 +1,1 @@
+Ai Suggested a project structure and midway through debugging and testing the AI hallucinated a different project strcuture without noticing. It forgot that it suggested a astar folder and later on when creating tests it was giving suggestions as if every file was in the top level project folder and not nested anywhere.
